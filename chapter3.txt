@@ -1,1 +1,3 @@
 backend engineering is not an easy job but not hard enough to learn.
+
+now learn the crux of git branching.
